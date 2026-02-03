@@ -58,14 +58,22 @@ A **Streamlit-based data analysis and machine learning application** that analyz
 ## 📂 Project Structure
 
 whatsapp-chat-analyzer/
+
 │
 ├── app.py # Streamlit app
+
 ├── helper.py # Analysis & ML helpers
+
 ├── preprocessor.py # WhatsApp chat parser
+
 ├── requirements.txt # Dependencies
+
 ├── Procfile # Render deployment
+
 ├── .streamlit/
+
 │ └── config.toml
+
 └── README.md
 
 ☁️ Deployment
